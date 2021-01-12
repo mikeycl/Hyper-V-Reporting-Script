@@ -1,0 +1,62 @@
+
+[DEBUG]   - 20.Dec.2018 16:39:57 - ----- Start -----
+[INFO]    - 20.Dec.2018 16:39:57 - Logging started: C:\Users\mc_pc\OneDrive\Documents\GitHub\Hyper-V-Reporting-Script\ScriptLog.txt
+[INFO]    - 20.Dec.2018 16:40:01 - Checking prerequisites to run script on the MIKE-LAP-HP...
+[ERROR]   - 20.Dec.2018 16:40:01 - MIKE-LAP-HP: Incompatible operating system version detected. Supported operating systems are Windows Server 2012 and Windows Server 2012 R2.
+[ERROR]   - 20.Dec.2018 16:40:01 - Script terminated!
+
+[DEBUG]   - 20.Dec.2018 16:54:18 - ----- Start -----
+[INFO]    - 20.Dec.2018 16:54:18 - Logging started: C:\Users\mc_pc\OneDrive\Documents\GitHub\Hyper-V-Reporting-Script\ScriptLog.txt
+[INFO]    - 20.Dec.2018 16:54:21 - Checking prerequisites to run script on the MIKE-LAP-HP...
+[DEBUG]   - 20.Dec.2018 16:54:22 - MIKE-LAP-HP: Operating system is supported as script runtime environment.
+[INFO]    - 20.Dec.2018 16:54:22 - Checking prerequisites for standalone Hyper-V host(s) reporting...
+[WARNING] - 20.Dec.2018 16:54:25 - No valid server for reporting.
+[ERROR]   - 20.Dec.2018 16:54:25 - Script terminated!
+
+[DEBUG]   - 20.Dec.2018 16:57:28 - ----- Start -----
+[INFO]    - 20.Dec.2018 16:57:28 - Logging started: C:\Users\mc_pc\OneDrive\Documents\GitHub\Hyper-V-Reporting-Script\ScriptLog.txt
+[INFO]    - 20.Dec.2018 16:57:31 - Checking prerequisites to run script on the MIKE-LAP-HP...
+[DEBUG]   - 20.Dec.2018 16:57:32 - MIKE-LAP-HP: Operating system is supported as script runtime environment.
+[INFO]    - 20.Dec.2018 16:57:32 - Checking prerequisites for standalone Hyper-V host(s) reporting...
+[WARNING] - 20.Dec.2018 16:57:35 - No valid server for reporting.
+[ERROR]   - 20.Dec.2018 16:57:35 - Script terminated!
+
+[DEBUG]   - 20.Dec.2018 17:06:39 - ----- Start -----
+[INFO]    - 20.Dec.2018 17:06:39 - Logging started: C:\Users\mc_pc\OneDrive\Documents\GitHub\Hyper-V-Reporting-Script\ScriptLog.txt
+[INFO]    - 20.Dec.2018 17:06:42 - Checking prerequisites to run script on the MIKE-LAP-HP...
+[DEBUG]   - 20.Dec.2018 17:06:43 - MIKE-LAP-HP: Operating system is supported as script runtime environment.
+[INFO]    - 20.Dec.2018 17:06:43 - Checking prerequisites for standalone Hyper-V host(s) reporting...
+[WARNING] - 20.Dec.2018 17:06:46 - No valid server for reporting.
+[ERROR]   - 20.Dec.2018 17:06:46 - Script terminated!
+
+[DEBUG]   - 20.Dec.2018 17:08:41 - ----- Start -----
+[INFO]    - 20.Dec.2018 17:08:41 - Logging started: C:\Users\mc_pc\OneDrive\Documents\GitHub\Hyper-V-Reporting-Script\ScriptLog.txt
+[INFO]    - 20.Dec.2018 17:08:44 - Checking prerequisites to run script on the MIKE-LAP-HP...
+[DEBUG]   - 20.Dec.2018 17:08:44 - MIKE-LAP-HP: Operating system is supported as script runtime environment.
+[INFO]    - 20.Dec.2018 17:08:45 - Checking prerequisites for standalone Hyper-V host(s) reporting...
+[WARNING] - 20.Dec.2018 17:08:48 - No valid server for reporting.
+[ERROR]   - 20.Dec.2018 17:08:48 - Script terminated!
+
+[DEBUG]   - 20.Dec.2018 17:15:23 - ----- Start -----
+[INFO]    - 20.Dec.2018 17:15:23 - Logging started: C:\Users\mc_pc\OneDrive\Documents\GitHub\Hyper-V-Reporting-Script\ScriptLog.txt
+[INFO]    - 20.Dec.2018 17:15:26 - Checking prerequisites to run script on the MIKE-LAP-HP...
+[DEBUG]   - 20.Dec.2018 17:15:26 - MIKE-LAP-HP: Operating system is supported as script runtime environment.
+[INFO]    - 20.Dec.2018 17:15:26 - Checking prerequisites for standalone Hyper-V host(s) reporting...
+[WARNING] - 20.Dec.2018 17:15:29 - No valid server for reporting.
+[ERROR]   - 20.Dec.2018 17:15:30 - Script terminated!
+
+[DEBUG]   - 20.Dec.2018 17:21:45 - ----- Start -----
+[INFO]    - 20.Dec.2018 17:21:45 - Logging started: C:\Users\mc_pc\OneDrive\Documents\GitHub\Hyper-V-Reporting-Script\ScriptLog.txt
+[INFO]    - 20.Dec.2018 17:21:48 - Checking prerequisites to run script on the MIKE-LAP-HP...
+[DEBUG]   - 20.Dec.2018 17:21:49 - MIKE-LAP-HP: Operating system is supported as script runtime environment.
+[INFO]    - 20.Dec.2018 17:21:49 - Checking prerequisites for standalone Hyper-V host(s) reporting...
+[WARNING] - 20.Dec.2018 17:21:52 - No valid server for reporting.
+[ERROR]   - 20.Dec.2018 17:21:52 - Script terminated!
+
+[DEBUG]   - 20.Dec.2018 17:28:48 - ----- Start -----
+[INFO]    - 20.Dec.2018 17:28:48 - Logging started: C:\Users\mc_pc\OneDrive\Documents\GitHub\Hyper-V-Reporting-Script\ScriptLog.txt
+[INFO]    - 20.Dec.2018 17:28:51 - Checking prerequisites to run script on the MIKE-LAP-HP...
+[DEBUG]   - 20.Dec.2018 17:28:51 - MIKE-LAP-HP: Operating system is supported as script runtime environment.
+[INFO]    - 20.Dec.2018 17:28:52 - Checking prerequisites for standalone Hyper-V host(s) reporting...
+[WARNING] - 20.Dec.2018 17:28:55 - No valid server for reporting.
+[ERROR]   - 20.Dec.2018 17:28:55 - Script terminated!
